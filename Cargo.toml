@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 nom = "7.1.1"
+xml-rs = "0.8.4"
+xmltree = "0.10.3"
